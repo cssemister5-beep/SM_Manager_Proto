@@ -1,0 +1,7 @@
+{
+    "admin@mail.com": {
+        "username": "admin",
+        "password": "scrypt:32768:8:1$mnNR1TTR599RxjcU$10365219fedefe9527912d19fcb1858bbe9b219ac9c896803aa9afb16895367f17bab0e0a856c3c1d5dbbdfe1a85409b9df5768e8655b4009310c66e03b70298",
+        "created_at": "2025-09-25T18:29:14.392458"
+    }
+}
